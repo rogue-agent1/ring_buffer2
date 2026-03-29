@@ -1,13 +1,9 @@
-# ring_buffer2
+# Lock-Free Ring Buffer
 
-Ring buffer — fixed-size circular buffer with overflow modes
+Lock-Free Ring Buffer — zero-dependency Python implementation.
 
 ## Usage
 
 ```bash
-python3 ring_buffer2.py --help
+python3 ring_buffer2.py
 ```
-
-## License
-
-MIT
